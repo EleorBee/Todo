@@ -1,5 +1,7 @@
 # Todo
 
+Sample solution for the [Todo](https://github.com/EleorBee/Todo/) challenge from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
 ## How to run
 
 Clone the repository and run the following command:
